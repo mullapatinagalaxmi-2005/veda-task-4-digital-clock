@@ -2,25 +2,25 @@
 
 ## 📌 Project Overview
 
-This project is a responsive Digital Clock developed as part of Task 4 of the Veda Technology internship. It displays the current local time in hours, minutes, and seconds and updates automatically every second.
+The Digital Clock is a front-end web development project completed as part of Task 4 of my Web Development Internship at Veda Technology.
 
-The project is built using HTML, CSS, and JavaScript with a modern, user-friendly interface.
+This project displays the current local time in hours, minutes, and seconds. The clock updates automatically every second and displays the current date in a responsive, modern interface.
 
 ## ✨ Features
 
-- Displays current time in HH:MM:SS format.
-- Automatically updates every second.
-- Displays the current date and day.
-- Responsive design for desktop and mobile screens.
-- Modern dark-blue gradient background.
-- Glass-style clock container.
-- Simple and easy-to-use interface.
+- Live digital clock in HH:MM:SS format
+- Automatic updates every second
+- Current date and day display
+- Responsive layout for desktop and mobile devices
+- Modern dark-blue gradient background
+- Animated clock separators
+- Simple and user-friendly interface
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the webpage.
-- **CSS3** – Styling, layout, animations, and responsiveness.
-- **JavaScript** – Live clock functionality and date display.
+- HTML5
+- CSS3
+- JavaScript
 
 ## 📂 Project Structure
 
@@ -32,41 +32,50 @@ veda-task-4-digital-clock/
 └── README.md
 ```
 
-## 🚀 How to Run the Project
+## ⚙️ How to Run Locally
 
-1. Clone or download this repository.
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/mullapatinagalaxmi-2005/veda-task-4-digital-clock.git
+   ```
+
 2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in your browser.
-4. Alternatively, install the Live Server extension in VS Code and select **Open with Live Server**.
+3. Open `index.html` in a web browser.
+4. Alternatively, use the Live Server extension in VS Code.
 
-## 💡 Concepts Learned
+## 🧠 Concepts Learned
 
-- HTML page structure.
-- CSS styling and responsive design.
-- JavaScript Date object.
-- DOM manipulation.
-- `setInterval()` for automatic updates.
-- `padStart()` for formatting time values.
-- Using GitHub to store and share project source code.
+- JavaScript Date object for retrieving current time
+- `setInterval()` for updating the clock every second
+- DOM selection and manipulation
+- `padStart()` for adding leading zeros
+- CSS Flexbox and responsive design
+- GitHub repository management
+- Website deployment using GitHub Pages
 
 ## 🌐 Live Demo
 
-**Live Website:** Add your deployed GitHub Pages URL here after deployment.
+**Live Website:**  
+https://mullapatinagalaxmi-2005.github.io/veda-task-4-digital-clock/
 
-## 📦 GitHub Repository
+## 💻 GitHub Repository
 
-**Source Code:** Add your GitHub repository URL here.
+**Source Code:**  
+https://github.com/mullapatinagalaxmi-2005/veda-task-4-digital-clock
 
 ## 👩‍💻 Author
 
 **Mullapati Nagalaxmi**
 
-## 🎓 Internship
+## 🎓 Internship Details
 
-**Organization:** Veda Technology  
-**Task:** Task 4 – Digital Clock  
-**Project Type:** Front-End Web Development
+- **Organization:** Veda Technology
+- **Track:** Web Development
+- **Task:** Task 4 – Digital Clock
+- **Project Type:** Front-End Web Development
 
-## 📄 License
+## 📄 Purpose
 
-This project was created for educational and internship purposes.
+This project was developed for educational purposes to practice JavaScript fundamentals, DOM manipulation, responsive styling, and website deployment.
+
